@@ -1,0 +1,2 @@
+# ScholarshipManagementSystem
+Mini Project
