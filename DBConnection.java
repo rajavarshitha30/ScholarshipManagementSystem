@@ -8,7 +8,7 @@ public class DBConnection {
 
     static final String USER = "root";
 
-    static final String PASSWORD = "";
+    static final String PASSWORD ="" ;
 
     public static Connection getConnection() {
 
